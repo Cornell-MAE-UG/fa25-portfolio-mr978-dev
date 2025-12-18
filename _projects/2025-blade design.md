@@ -22,16 +22,26 @@ We began by analyzing a Weibull wind-speed distribution (k = 5, c = 5 m/s) and i
 
 For the blade geometry, we selected the NACA 4412 airfoil for its reliable performance and predictable stall behavior in the Reynolds-number range of approximately 30,000–60,000. A square-root chord taper concentrated aerodynamic area near the hub where tangential velocity is low, while a spanwise twist distribution was implemented to maintain favorable angles of attack across the blade at the design operating point. Structural checks verified safe operation against both root bending stresses and the magnetic particle brake torque limit.
 
-![Blade twist and taper geometry]({{ "assets/images/twist&taper.png" | relative_url }})
-*CAD views showing the prescribed spanwise twist and square-root chord taper used to maintain efficient angles of attack along the blade.*
+<div style="display: flex; gap: 1.5rem; justify-content: center; flex-wrap: wrap; margin-top: 1rem;">
+  <img src="{{ 'assets/images/twist&taper.png' | relative_url }}" alt="Blade twist geometry" style="width: 45%; max-width: 350px;">
+</div>
+
+<p style="text-align: center; font-size: 0.9em; color: #555;">
+CAD views showing the prescribed spanwise twist and square-root chord taper used to maintain efficient angles of attack along the blade.
+</p>
 
 
 ## Testing & Results
 
 The rotor was tested by generating power curves across multiple tunnel velocities (approximately 3.4–6.5 m/s). At each speed, brake torque was incrementally increased and equilibrium torque–RPM data were recorded to compute power. The measured curves exhibited the expected aerodynamic behavior, with power peaking at intermediate rotational speeds.
 
-![Measured power curves across tunnel velocities]({{ "assets/images/power_curve.png" | relative_url }})
-*Measured power curves across multiple tunnel velocities, with the design operating point highlighted near 1900 rpm.*
+<div style="display: flex; justify-content: center; margin: 1.5rem 0;">
+  <img src="{{ 'assets/images/power-curve.png' | relative_url }}" alt="Measured power curves" style="width: 80%; max-width: 700px;">
+</div>
+
+<p style="text-align: center; font-size: 0.9em; color: #555;">
+Measured power curves across tunnel velocities, with the design operating point highlighted near 1900 rpm.
+</p>
 
 Across all test cases, maximum power consistently occurred near 1900 rpm and within the 5.3–6.0 m/s wind-speed range, closely matching predictions from the statistical wind analysis and blade design. While geometric constraints limited maximum chord length and reduced absolute power, the rotor achieved its primary objective: concentrating performance where long-term energy contribution is highest.
 
