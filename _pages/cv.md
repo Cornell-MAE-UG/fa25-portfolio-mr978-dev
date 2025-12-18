@@ -4,11 +4,11 @@ title: Morgan Remeza – Resume
 permalink: /cv/
 ---
 
-# Morgan Remeza  
+# Morgan Remeza
 **Mechanical & Aerospace Engineering | Propulsion, Experimental Design & Quantitative Analysis**
 
-📧 mr978@cornell.edu • 🇺🇸 U.S. Citizen  
-[Download PDF Resume]({{ "/assets/CV.pdf" | relative_url }})
+📧 mr978@cornell.edu · 🇺🇸 U.S. Citizen  
+[Download PDF Resume]({{ "MRemeza Resume Dec 2024 biz.pdf" | relative_url }})
 
 ---
 
