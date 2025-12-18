@@ -9,7 +9,7 @@ technologies:
   - Aerodynamic Modeling
   - Experimental Data Analysis
 
-image: assets/images/turbineCov2.png
+image: /assets/images/turbineCov2.png
 
 ---
 
