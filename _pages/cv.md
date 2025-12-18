@@ -8,7 +8,7 @@ permalink: /cv/
 **Mechanical & Aerospace Engineering | Propulsion, Experimental Design & Quantitative Analysis**
 
 📧 mr978@cornell.edu · 🇺🇸 U.S. Citizen  
-[Download PDF Resume]({{ "/assets/MRemeza%20Resume%20Dec%202024%20biz.pdf" | relative_url }})
+[Download PDF Resume]({{ "/assets/MRemeza_Resume_Dec2024_biz.pdf" | relative_url }})
 
 ---
 
