@@ -83,7 +83,7 @@ New York, NY
 ## Activities & Leadership
 - **NASA Student Launch Team** — Founder & Lead Engineer  
 - **Cornell Rocketry Team** — Propulsion & Structures  
-- **Undergraduate Research (URRG)** — Solid propulsion research  
+- **Upstate Research Rocketry Group** — Solid propulsion research  
 - **Wind Energy Laboratory Projects** — Aerodynamic design & testing  
 
 ---
