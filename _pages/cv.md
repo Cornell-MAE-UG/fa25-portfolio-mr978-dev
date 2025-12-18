@@ -8,9 +8,10 @@ permalink: /cv/
 **Mechanical & Aerospace Engineering | Propulsion, Experimental Design & Quantitative Analysis**
 
 📧 mr978@cornell.edu · 🇺🇸 U.S. Citizen  
-[Download PDF Resume]({{ "MRemeza Resume Dec 2024 biz.pdf" | relative_url }})
+[Download PDF Resume]({{ "/assets/MRemeza%20Resume%20Dec%202024%20biz.pdf" | relative_url }})
 
 ---
+
 
 ## Profile
 Mechanical & Aerospace Engineering student at Cornell University with hands-on experience in **solid propulsion development, aerodynamic design, experimental testing, and structured finance analysis**. Skilled at integrating modeling, experimentation, and real-world constraints to deliver reliable engineering and analytical outcomes.
