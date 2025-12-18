@@ -38,7 +38,7 @@ The rotor was tested by generating power curves across multiple tunnel velocitie
 <div style="display: flex; justify-content: center; margin: 1.5rem 0;">
   <img src="{{ 'assets/images/power_curve.png' | relative_url }}"
        alt="Measured power curves across tunnel velocities"
-       style="width: 80%; max-width: 700px;">
+       style="width: 80%; max-width: 1000px;">
 </div>
 
 <p style="text-align: center; font-size: 0.9em; color: #555;">
