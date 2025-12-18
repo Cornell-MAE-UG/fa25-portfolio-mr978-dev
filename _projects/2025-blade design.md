@@ -36,14 +36,17 @@ CAD views showing the prescribed spanwise twist and square-root chord taper used
 The rotor was tested by generating power curves across multiple tunnel velocities (approximately 3.4–6.5 m/s). At each speed, brake torque was incrementally increased and equilibrium torque–RPM data were recorded to compute power. The measured curves exhibited the expected aerodynamic behavior, with power peaking at intermediate rotational speeds.
 
 <div style="display: flex; justify-content: center; margin: 1.5rem 0;">
-  <img src="{{ 'assets/images/power_curve.png' | relative_url }}" alt="Measured power curves" style="width: 80%; max-width: 700px;">
+  <img src="{{ 'assets/images/power_curve.png' | relative_url }}"
+       alt="Measured power curves across tunnel velocities"
+       style="width: 80%; max-width: 700px;">
 </div>
 
 <p style="text-align: center; font-size: 0.9em; color: #555;">
-Measured power curves across tunnel velocities, with the design operating point highlighted near 1900 rpm.
+Measured power curves across multiple tunnel velocities, with the design operating point highlighted near 1900 rpm.
 </p>
 
 Across all test cases, maximum power consistently occurred near 1900 rpm and within the 5.3–6.0 m/s wind-speed range, closely matching predictions from the statistical wind analysis and blade design. While geometric constraints limited maximum chord length and reduced absolute power, the rotor achieved its primary objective: concentrating performance where long-term energy contribution is highest.
+
 
 
 ### Probability-Weighted Performance at Design Operating Point
@@ -56,6 +59,7 @@ The table below summarizes measured power output near the design operating speed
 | 5.0              | 1.15                 | High                | **0.42**              |
 | 5.5              | 1.70                 | High                | **0.59**              |
 | 6.0              | 1.85                 | Moderate            | **0.49**              |
+
 
 **Key takeaway:** Wind speeds near 5–6 m/s dominate long-term energy contribution, validating the selected design operating point.
 
