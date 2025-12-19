@@ -1,7 +1,7 @@
 ---
 layout: project
-title: High-ISP Aluminized Solid Propellant Development
-description: Development and testing of a high–solids-loading aluminized “Blue” composite propellant and optimized nozzle system for small-scale high-performance solid rocket motors.
+title: UB Prop Dev
+description: Development and testing of a high–solids-loading aluminized “Ultra-Blue” composite propellant and optimized nozzle system for small-scale high-performance solid rocket motors.
 technologies:
   - OpenMotor
   - ProPep
