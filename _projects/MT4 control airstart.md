@@ -14,25 +14,25 @@ Experimental **multi-motor airstart project** focused on staged ignition for in-
 ### Ground Setup
 Staged ignition system configured and verified prior to flight, with independent timers assigned to each outboard motor pair.
 
-![MT4 setup]({{ "/assets/images/setup.png" | relative_url }})
+![MT4 setup]({{ "/assets/images/setupU.png" | relative_url }})
 
 ---
 
 ### Boost Phase
 Vehicle boosted under a **central L1400 core motor**, establishing stable ascent prior to airstart events.
 
-![L1400 liftoff]({{ "/assets/images/Liftoff.png" | relative_url }})
+![L1400 liftoff]({{ "/assets/images/LiftoffU.png" | relative_url }})
 
 ---
 
 ### Airstart – Set 1
 **Outboard motors 1 & 2** ignited at approximately **2,500 ft AGL**, adding thrust during mid-ascent.
 
-![Outboard ignition set 1]({{ "/assets/images/set1.png" | relative_url }})
+![Outboard ignition set 1]({{ "/assets/images/set1U.png" | relative_url }})
 
 ---
 
 ### Airstart – Set 2
 **Outboard motors 3 & 4** ignited at approximately **4,000 ft AGL**, completing the staged thrust profile.
 
-![Outboard ignition set 2]({{ "/assets/images/set2.png" | relative_url }})
+![Outboard ignition set 2]({{ "/assets/images/set2U.png" | relative_url }})
