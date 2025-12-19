@@ -13,4 +13,4 @@ My name is Morgan Remeza! I am a junior Mechanical Engineering student at Cornel
 
 I have hands-on experience across CAD, MATLAB, Python, and experimental validation, and I enjoy working at the intersection of theory, fabrication, and testing—particularly in team-based, technically rigorous environments.
 
-Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
+Take a look at some of <a href="{{ "/projects/" | relative_url }}">my aero projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
