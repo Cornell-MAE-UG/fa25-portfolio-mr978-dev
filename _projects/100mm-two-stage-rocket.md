@@ -8,7 +8,7 @@ technologies:
   - Embedded Avionics & Flight Logic
   - Staging & Recovery Systems
   - Flight Simulation (RASAero II, BurnSim, ProPEP)
-image: /assets/images/ts.jpg
+image: /assets/images/tsCrop.jpg
 ---
 
 ## Project Overview
