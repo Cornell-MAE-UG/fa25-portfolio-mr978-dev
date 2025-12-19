@@ -8,7 +8,7 @@ technologies:
   - SolidWorks
   - Experimental Propulsion Testing
   - Composite Manufacturing
-image: /assets/images/M3500.png
+image: /assets/images/L1550crop.png
 ---
 
 ## Project Overview
