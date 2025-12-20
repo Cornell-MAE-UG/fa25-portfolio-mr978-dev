@@ -2,7 +2,7 @@
 layout: page
 title: Engineering Ethics Portfolio – Boeing 737 MAX
 permalink: /projects/engineering-ethics-portfolio/
-image: /assets/images/gate.jpg
+image: /assets/images/gate.png
 description: MAE 4300 ethics portfolio essay synthesizing Weeks 6–9 using structured ethical analysis and ASME canons.
 technologies:
   - Engineering Ethics
@@ -15,7 +15,7 @@ technologies:
 
 ## Introduction — The Engineer at the Gate
 
-<img src="{{ '/assets/images/gate.jpg' | relative_url }}" alt="Engineer at the Gate" style="display:block; max-width: 900px; width: 100%; height: auto; margin: 0.75rem auto 1.25rem auto; border-radius: 10px;" />
+<img src="{{ '/assets/images/gate.png' | relative_url }}" alt="Engineer at the Gate" style="display:block; max-width: 900px; width: 100%; height: auto; margin: 0.75rem auto 1.25rem auto; border-radius: 10px;" />
 
 An engineer’s work often begins quietly—reviewing data, running models, approving designs. But some decisions sit at the gates of society itself. When technology enters the world, it carries real consequences for human lives. The Boeing 737 MAX case shows that engineering ethics is not about following rules blindly; it is about recognizing when rules are not enough.
 
@@ -25,7 +25,7 @@ In every major system, someone stands at the gate. The ethical engineer’s role
 
 ## 1. Seeing the Real Threat — Framing the Problem (Week 6)
 
-<img src="{{ '/assets/images/framing.jpg' | relative_url }}" alt="Framing the Problem" style="display:block; max-width: 900px; width: 100%; height: auto; margin: 0.75rem auto 1.25rem auto; border-radius: 10px;" />
+<img src="{{ '/assets/images/framing.png' | relative_url }}" alt="Framing the Problem" style="display:block; max-width: 900px; width: 100%; height: auto; margin: 0.75rem auto 1.25rem auto; border-radius: 10px;" />
 
 Before any battle, a knight must understand the terrain. In engineering, this means framing ethical problems clearly and precisely. In Week 6, the worksheets showed that vague questions hide responsibility. Asking “Was MCAS ethical?” is too broad to lead to action. Strong framing demands sharper questions: *Who knew what? Who decided? What risks were introduced?*
 
@@ -37,7 +37,7 @@ An ethical engineer must slow down long enough to see the real danger. Rushing f
 
 ## 2. Understanding the Rules of the Kingdom — Facts and Assumptions (Week 7)
 
-<img src="{{ '/assets/images/understanding.jpg' | relative_url }}" alt="Facts and Assumptions" style="display:block; max-width: 900px; width: 100%; height: auto; margin: 0.75rem auto 1.25rem auto; border-radius: 10px;" />
+<img src="{{ '/assets/images/understanding.png' | relative_url }}" alt="Facts and Assumptions" style="display:block; max-width: 900px; width: 100%; height: auto; margin: 0.75rem auto 1.25rem auto; border-radius: 10px;" />
 
 In Week 7, the focus shifted from identifying issues to understanding how facts, assumptions, and definitions shape decisions. Engineers rarely have perfect information, but they still must act responsibly. The worksheets showed that ethical failure often begins when assumptions go unchallenged.
 
@@ -49,7 +49,7 @@ In the kingdom metaphor, laws written on parchment do not always protect the peo
 
 ## 3. Choosing When Principles Collide — Acting on Ethics (Week 8)
 
-<img src="{{ '/assets/images/collide.jpg' | relative_url }}" alt="Principles Collide" style="display:block; max-width: 900px; width: 100%; height: auto; margin: 0.75rem auto 1.25rem auto; border-radius: 10px;" />
+<img src="{{ '/assets/images/collide.png' | relative_url }}" alt="Principles Collide" style="display:block; max-width: 900px; width: 100%; height: auto; margin: 0.75rem auto 1.25rem auto; border-radius: 10px;" />
 
 Week 8 made clear that ethical principles often conflict. Engineers are expected to serve their employers, meet deadlines, and remain competitive. But when these goals conflict with public safety, the hierarchy is clear: safety must come first.
 
@@ -61,7 +61,7 @@ This is the moment in the story when the knight plants their feet. Acting ethica
 
 ## 4. Pressure from Within the Walls — Constraints and Reality (Week 9)
 
-<img src="{{ '/assets/images/pressure.jpg' | relative_url }}" alt="Constraints and Reality" style="display:block; max-width: 900px; width: 100%; height: auto; margin: 0.75rem auto 1.25rem auto; border-radius: 10px;" />
+<img src="{{ '/assets/images/pressure.png' | relative_url }}" alt="Constraints and Reality" style="display:block; max-width: 900px; width: 100%; height: auto; margin: 0.75rem auto 1.25rem auto; border-radius: 10px;" />
 
 Week 9 acknowledged a hard truth: engineers operate inside powerful systems. Corporate pressure, job security, unclear authority, and regulatory delegation all make ethical action harder. These constraints explain why failures occur—but they do not excuse them.
 
@@ -73,7 +73,7 @@ A lone knight cannot defend a kingdom forever. Strong walls, clear laws, and sha
 
 ## Conclusion — The Quiet Victory
 
-<img src="{{ '/assets/images/victory.jpg' | relative_url }}" alt="The Quiet Victory" style="display:block; max-width: 900px; width: 100%; height: auto; margin: 0.75rem auto 1.25rem auto; border-radius: 10px;" />
+<img src="{{ '/assets/images/victory.png' | relative_url }}" alt="The Quiet Victory" style="display:block; max-width: 900px; width: 100%; height: auto; margin: 0.75rem auto 1.25rem auto; border-radius: 10px;" />
 
 The central lesson from Weeks 6–9 is simple but demanding: ethical engineering requires more than intelligence—it requires judgment and courage. Engineers must frame problems clearly, challenge assumptions, act when principles collide, and push back against pressures that threaten public safety.
 
