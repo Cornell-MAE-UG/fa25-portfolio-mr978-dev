@@ -2,7 +2,7 @@
 layout: page
 title: Engineering Ethics Portfolio – Boeing 737 MAX
 permalink: /projects/engineering-ethics-portfolio/
-image: /assets/images/gate.png
+image: /assets/images/cover4300.png
 description: MAE 4300 ethics portfolio essay synthesizing Weeks 6–9 using structured ethical analysis and ASME canons.
 technologies:
   - Engineering Ethics
