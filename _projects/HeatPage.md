@@ -2,7 +2,7 @@
 layout: project
 title: "Heat Transfer Problem Set 5 Reflection"
 description: "Portfolio reflection for MAE 3240 Problem Set 5."
-permalink: /projects/heatpage/
+permalink: /projects/HeatPage/
 technologies: ["Heat Transfer", "Thermal Analysis"]
 ---
 
