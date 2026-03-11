@@ -11,7 +11,7 @@ MAE 3240 – Problem Set 5
 
 ## Homework PDF
 
-[Download the homework PDF](/fa25-portfolio-mr978-dev/assets/MR%20Heat%20Pset5%20P1.pdf)
+[Download the homework PDF](/fa25-portfolio-mr978-dev/assets/MR_Heat_Pset5_P1.pdf)
 
 ## Reflection
 
