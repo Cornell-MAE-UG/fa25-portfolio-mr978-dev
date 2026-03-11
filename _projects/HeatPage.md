@@ -12,7 +12,7 @@ MAE 3240 – Problem Set 5
 
 ## Homework PDF
 
-[Download the homework PDF](/assets/Pset5.pdf)
+[Download the homework PDF](/fa25-portfolio-mr978-dev/assets/Pset5.pdf)
 
 ## Reflection
 
