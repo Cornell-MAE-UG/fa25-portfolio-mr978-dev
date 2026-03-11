@@ -6,8 +6,6 @@ permalink: /projects/HeatPage/
 technologies: ["Heat Transfer", "Thermal Analysis"]
 ---
 
-## Selected Assignment
-
 MAE 3240 – Problem Set 5
 
 ## Homework PDF
