@@ -13,8 +13,6 @@ MAE 3240 – Problem Set 5
 
 [Download the homework PDF](/fa25-portfolio-mr978-dev/assets/Pset5.pdf)
 
-![Heat sink](/assets/images/heatFins.jpg)
-
 ## Reflection
 
 In **Problem 1**, I worked through the full workflow for analyzing a cylindrical pin fin and a fin array used as a heat sink. This problem helped me understand how heat conducts along the length of a fin while simultaneously being removed by convection to the surrounding air. I learned how to evaluate the temperature distribution along the fin, determine how effective a fin actually is at increasing heat transfer, and compare the exact efficiency calculation with a simplified approximation method. It was especially useful to extend the analysis from a single fin to a full array of fins mounted on a base plate and then build a thermal resistance network for the entire system. This made it clear how fins are used in real heat sink designs to increase surface area and reduce overall thermal resistance.
