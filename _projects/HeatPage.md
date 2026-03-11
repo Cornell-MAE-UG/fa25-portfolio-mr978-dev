@@ -5,6 +5,7 @@ description: "Portfolio reflection for MAE 3240 Problem Set 5."
 permalink: /projects/HeatPage/
 technologies: ["Heat Transfer", "Thermal Analysis"]
 ---
+## Selection
 
 MAE 3240 – Problem Set 5
 
